@@ -11,44 +11,17 @@
 <div>&nbsp;</div>
 
 <div>
-  <a href="https://x.com/sun0225SUN"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-  <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href="https://blog.guoqi.dev/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-  <a href="https://mp.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+  <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   <!-- wakatime -->
   <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-![](./sponsors.png)
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/guoqisun" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
-</a>
-
-<table style="margin-top: 20px;">
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://files.guoqi.dev/wxpay.png" width="250px"  alt="wxpay" style="border-radius:10px;" />
-      </td>
-      <td align="center">
-        <img src="https://files.guoqi.dev/alipay.jpg" width="250px"  alt="alipay" style="border-radius:10px;" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</div>
 
 
 
@@ -62,7 +35,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是Violent Ayang。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -71,21 +44,7 @@
 
 <tr><td>
 
-### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kun-lun-chao/)
-- Mar 10 - [你好，北京！你好，原则科技！](https://blog.guoqi.dev/posts/yuan-ze-ke-ji/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xi-zang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhu-hai/)
-<!-- feed end -->
-
-</td></tr>
-
-<tr><td>
 
 ### 📊 WakaTime
 
